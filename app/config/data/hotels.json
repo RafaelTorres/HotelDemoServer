@@ -1,0 +1,206 @@
+{
+  "data": [
+    {
+      "name": "Sercotel Hotel Toscana Plaza",
+      "price": "84.676",
+      "stars": "3.9",
+      "images": [
+        "https://s-ec.bstatic.com/images/hotel/max1280x900/133/133577514.jpg",
+        "https://t-ec.bstatic.com/images/hotel/max1280x900/957/95729808.jpg",
+        "https://exp.cdn-hotels.com/hotels/11000000/10580000/10573700/10573673/2d4b3847_z.jpg",
+        "https://coloralia.com/wp-content/uploads/2017/10/sercotel-bogota-plaza.jpg",
+        "https://i.travelapi.com/hotels/11000000/10580000/10573700/10573673/d39c068b_b.jpg",
+        "https://aff.bstatic.com/images/hotel/max500/957/95729809.jpg"
+      ],
+      "amenities": [
+        "fitness-center",
+        "coffe-maker",
+        "deep-soaking-bathtub",
+        "newspaper",
+        "nightclub",
+        "sheets",
+        "restaurant"
+      ],
+      "address": "Cl. 10 #65-31",
+      "city": "Cali",
+      "state": "Valle del Cauca",
+      "country": "Colombia",
+      "latitude": "3.4001796",
+      "longitude": "-76.5492621",
+      "phone": "4884444",
+      "website": "https://www.hotelestoscana.com/"
+    },
+    {
+      "name": "Hotel Lord Star Cali",
+      "price": "50.000",
+      "stars": "4.2",
+      "images": [
+        "https://www.lordstarhotel.co/wp-content/uploads/2014/08/IMG_024022-hotel-lord-star.jpg",
+        "https://i.planetacolombia.com/images/2014/1202/783096-bienvenidos-al-hotel-lord-star-20141202052326419.jpg",
+        "https://s-ec.bstatic.com/images/hotel/max400/763/76348221.jpg",
+        "https://res.cloudinary.com/lastminute/image/upload/c_scale,w_470/v1483505897/chmiuhdf8fd0pstd9kba.jpg"
+      ],
+      "amenities": [
+        "business-center",
+        "newspaper"
+      ],
+      "address": "Cl. 9 #56 -240",
+      "city": "Cali",
+      "state": "Valle del Cauca",
+      "country": "Colombia",
+      "latitude": "3.4006973",
+      "longitude": "-76.5538646",
+      "phone": "5136666",
+      "website": "https://www.lordstarhotel.co/"
+    },
+    {
+      "name": "Hotel NH Cali Royal",
+      "price": "216.800",
+      "stars": "4.4",
+      "images": [
+        "https://s-ec.bstatic.com/images/hotel/max1280x900/545/54566272.jpg",
+        "https://static.hotel-imagenes.info/uploads/hotel/16355/photo/nh-cali-royal_152483671237.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/09/a3/48/7d/nh-cali-royal.jpg",
+        "https://img.nh-hotels.net/nh_royal_cali-009-rooms.jpg",
+        "https://s-ec.bstatic.com/images/hotel/max1024x768/894/8948372.jpg"
+      ],
+      "amenities": [
+        "bathtub",
+        "bathrobes",
+        "fitness-center",
+        "business-center",
+        "restaurant",
+        "nightclub",
+        "deep-soaking-bathtub",
+        "beach-pool-facilities",
+        "separate-bredroom"
+      ],
+      "address": "Cra. 100b #11A-99",
+      "city": "Cali",
+      "state": "Valle del Cauca",
+      "country": "Colombia",
+      "latitude": "3.370886",
+      "longitude": "-76.5477877",
+      "phone": "3307777",
+      "website": "https://www.nh-hotels.co/"
+    },
+    {
+      "name": "Hotel Cali Plaza Ingenio",
+      "price": "119.500",
+      "stars": "4.1",
+      "images": [
+        "https://exp.cdn-hotels.com/hotels/13000000/12740000/12735300/12735281/12735281_2_z.jpg",
+        "https://static.hotel-imagenes.info/uploads/hotel/16408/photo/hotel-cali-plaza-ingenio_15013392153.jpg",
+        "https://s-ec.bstatic.com/images/hotel/max1024x768/560/56049680.jpg",
+        "https://s-ec.bstatic.com/images/hotel/max1024x768/560/56049660.jpg"
+      ],
+      "amenities": [],
+        "address": "Carrera 84 #15-57, Ingenio",
+        "city": "Cali",
+        "state": "Valle del Cauca",
+        "country": "Colombia",
+        "latitude": "3.3899677",
+        "longitude": "-76.5422798",
+        "phone": "3876530",
+        "website": "http://caliplaza.com/"
+    },
+    {
+      "name": "DOM Hotel Cali Sur",
+      "price": "145.000",
+      "stars": "4.5",
+      "images": [
+        "https://s-ec.bstatic.com/images/hotel/max1280x900/387/38740311.jpg",
+        "https://s-ec.bstatic.com/images/hotel/max1280x900/387/38739659.jpg",
+        "https://t-ec.bstatic.com/images/hotel/max1024x768/122/122492832.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/08/5d/e0/cf/instalaciones-dom-hotel.jpg",
+        "https://www.domhotelcali.com.co/wp-content/uploads/2017/02/sencilla-01.jpg"
+      ],
+      "amenities": [
+        "restaurant",
+        "coffe-maker"
+      ],
+      "address": "Carrera 65 # 10 - 72, Gran Limonar Cataya sur",
+      "city": "Cali",
+      "state": "Valle del Cauca",
+      "country": "Colombia",
+      "latitude": "3.3900104",
+      "longitude": "-76.5423227",
+      "phone": "3472530",
+      "website": "https://www.domhotelcali.com.co/"
+    },
+    {
+      "name": "Hotel MS Ciudad Jardin",
+      "price": "210.100",
+      "stars": "4.3",
+      "images": [
+        "https://t-ec.bstatic.com/images/hotel/max1024x768/519/51934225.jpg",
+        "https://a1.r9cdn.net/rimg/kimg/80/15/77d6ae21-5a7489cb-5.jpg",
+        "https://exp.cdn-hotels.com/hotels/10000000/9020000/9013300/9013239/9013239_44_z.jpg"
+      ],
+      "amenities": [
+        "fitness-center",
+        "business-center",
+        "restaurant",
+        "nightclub",
+        "coffe-maker",
+        "deep-soaking-bathtub",
+        "newspaper"
+      ],
+      "address": "Carrera 101 #15A-35",
+      "city": "Cali",
+      "state": "Valle del Cauca",
+      "country": "Colombia",
+      "latitude": "3.3684291",
+      "longitude": "-76.5420121",
+      "phone": "3156060",
+      "website": "http://hotelesms.com/"
+    },
+    {
+      "name": "Hotel Santelmo Cali",
+      "price": "119.662",
+      "stars": "3.4",
+      "images": [
+        "https://static.panoramio.com.storage.googleapis.com/photos/large/61665998.jpg",
+        "https://exp.cdn-hotels.com/hotels/23000000/22610000/22601600/22601526/d2125788_z.jpg",
+        "https://lh3.googleusercontent.com/p/AF1QipNZJv-TVzFz3OdtnYPeNugUi_K1XlLEwHjXr22o=s1600-w400"
+      ],
+      "amenities": [
+        "restaurant",
+        "newspaper"
+      ],
+      "address": "Calle 9 #65-14",
+      "city": "Cali",
+      "state": "Valle del Cauca",
+      "country": "Colombia",
+      "latitude": "3.39927",
+      "longitude": "-76.5534147",
+      "phone": "3799513",
+      "website": "http://hotelsantelmocali.com/"
+    },
+    {
+      "name": "Alko Hotel Integrado",
+      "price": "195.000",
+      "stars": "4.8",
+      "images": [
+        "https://t-ec.bstatic.com/images/hotel/max1024x768/111/111894422.jpg",
+        "https://exp.cdn-hotels.com/hotels/20000000/19360000/19357100/19357063/c6c3b2c7_z.jpg",
+        "https://q-xx.bstatic.com/images/hotel/max1024x768/975/97557549.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/11/20/34/35/alko-hotel-integrado.jpg",
+        "https://media-cdn.tripadvisor.com/media/photo-s/10/6c/bd/66/alko-hotel-integrado.jpg",
+        "https://exp.cdn-hotels.com/hotels/20000000/19360000/19357100/19357063/7440e205_z.jpg"
+      ],
+      "amenities": [
+        "restaurant",
+        "coffe-maker"
+      ],
+      "address": "Cra. 101 #15-27",
+      "city": "Cali",
+      "state": "Valle del Cauca",
+      "country": "Colombia",
+      "latitude": "3.3796106",
+      "longitude": "-76.5431175",
+      "phone": "314 7070621",
+      "website": "http://alkohotel.com/"
+    }
+  ]
+}
